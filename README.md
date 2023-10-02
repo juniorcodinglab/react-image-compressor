@@ -1,4 +1,4 @@
-# Projeto Base para Aplicação React com Typescript
+# Compressor de Imagem para temas
 
 Este projeto é uma base para o desenvolvimento de uma aplicação Typescript utilizando ReactJs.
 
